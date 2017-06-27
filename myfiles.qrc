@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>delete.png</file>
+        <file>exit.png</file>
+        <file>save.png</file>
+        <file>dash.png</file>
+        <file>dashdot.png</file>
+        <file>dashdotdot.png</file>
+        <file>dot.png</file>
+        <file>solid.png</file>
+        <file>black.png</file>
+        <file>blue.png</file>
+        <file>cyan.png</file>
+        <file>green.png</file>
+        <file>magenta.png</file>
+        <file>red.png</file>
+        <file>yellow.png</file>
+        <file>gray.png</file>
+        <file>ChartBuilder.png</file>
+    </qresource>
+</RCC>
